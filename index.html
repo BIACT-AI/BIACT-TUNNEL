@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>BIACT Cloud</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body{margin:0;background:#050917;color:white;font-family:Arial;padding:28px}
+    .box{border:1px solid #1a9bd7;border-radius:18px;padding:22px}
+    a{color:#39d98a}
+  </style>
+</head>
+<body>
+  <div class="box">
+    <h2>BIACT Cloud</h2>
+    <p>Se caută linkul activ...</p>
+    <p id="msg"></p>
+  </div>
+
+<script>
+(async function(){
+  const msg = document.getElementById("msg");
+  const cfg = "https://raw.githubusercontent.com/BIACT-AI/BIACT-TUNNEL/main/cloud_url.json?t=" + Date.now();
+  try {
+    const r = await fetch(cfg, {cache:"no-store"});
+    const j = await r.json();
+    if (!j.cloud_url) throw new Error("cloud_url gol");
+    msg.innerHTML = 'Deschid: <a href="'+j.cloud_url+'">'+j.cloud_url+'</a>';
+    location.replace(j.cloud_url);
+  } catch(e) {
+    msg.textContent = "Nu pot citi cloud_url.json: " + e.message;
+  }
+})();
+</script>
+</body>
+</html>
