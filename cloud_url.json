@@ -1,7 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://outdoors-maple-rhode-created.trycloudflare.com",
-  "url": "https://outdoors-maple-rhode-created.trycloudflare.com",
-  "updated_at": "14.06.2026 02:04:50",
-  "source": "BIACT Clean Core"
+  "cloud_url": "https://victorian-keen-studied-structures.trycloudflare.com",
+  "url": "https://victorian-keen-studied-structures.trycloudflare.com",
+  "updated_at": "14.06.2026 02:50:21",
+  "source": "BIACT Clean Core",
+  "target": "http://127.0.0.1:8001",
+  "tunnel_engine": "BIACT Cloud Tunnel V6 — lifecycle vechi sigur, Auth V2"
 }
