@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://swimming-cleanup-advertisements-pmc.trycloudflare.com",
-  "url": "https://swimming-cleanup-advertisements-pmc.trycloudflare.com",
-  "updated_at": "14.06.2026 23:14:29",
+  "cloud_url": "https://reveal-supporters-clouds-clicks.trycloudflare.com",
+  "url": "https://reveal-supporters-clouds-clicks.trycloudflare.com",
+  "updated_at": "15.06.2026 08:54:48",
   "source": "BIACT Clean Core",
   "target": "http://127.0.0.1:8001",
-  "tunnel_engine": "BIACT Cloud Tunnel V6 — lifecycle vechi sigur, Auth V2"
+  "tunnel_engine": "BIACT EXTREME 2 — Cloud passthrough (protocol 6)"
 }
