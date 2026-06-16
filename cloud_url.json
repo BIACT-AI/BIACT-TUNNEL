@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://gauge-currency-lab-consisting.trycloudflare.com",
-  "url": "https://gauge-currency-lab-consisting.trycloudflare.com",
-  "updated_at": "16.06.2026 21:00:15",
-  "operation_id": "cloud_c137056cf074",
+  "cloud_url": "https://programmer-circles-groundwater-fig.trycloudflare.com",
+  "url": "https://programmer-circles-groundwater-fig.trycloudflare.com",
+  "updated_at": "16.06.2026 23:42:59",
+  "operation_id": "cloud_5cb407fe675a",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
