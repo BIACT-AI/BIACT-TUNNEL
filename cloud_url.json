@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://occasionally-payment-washer-ladder.trycloudflare.com",
-  "url": "https://occasionally-payment-washer-ladder.trycloudflare.com",
-  "updated_at": "16.06.2026 16:40:29",
-  "operation_id": "cloud_a9739d4c1bfc",
+  "cloud_url": "https://african-minutes-circuit-zero.trycloudflare.com",
+  "url": "https://african-minutes-circuit-zero.trycloudflare.com",
+  "updated_at": "16.06.2026 17:32:27",
+  "operation_id": "cloud_a60a94b858de",
   "source": "BIACT Cloud Stable + Auto-Heal V6",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + Auto-Heal V6"
