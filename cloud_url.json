@@ -1,10 +1,10 @@
 {
   "ok": true,
-  "cloud_url": "https://african-minutes-circuit-zero.trycloudflare.com",
-  "url": "https://african-minutes-circuit-zero.trycloudflare.com",
-  "updated_at": "16.06.2026 17:32:27",
-  "operation_id": "cloud_a60a94b858de",
-  "source": "BIACT Cloud Stable + Auto-Heal V6",
+  "cloud_url": "https://gauge-currency-lab-consisting.trycloudflare.com",
+  "url": "https://gauge-currency-lab-consisting.trycloudflare.com",
+  "updated_at": "16.06.2026 21:00:15",
+  "operation_id": "cloud_c137056cf074",
+  "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
-  "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + Auto-Heal V6"
+  "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
 }
