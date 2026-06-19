@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://varying-associates-frederick-luke.trycloudflare.com",
-  "url": "https://varying-associates-frederick-luke.trycloudflare.com",
-  "updated_at": "18.06.2026 08:27:42",
-  "operation_id": "cloud_ffe259563384",
+  "cloud_url": "https://manhattan-forth-next-mine.trycloudflare.com",
+  "url": "https://manhattan-forth-next-mine.trycloudflare.com",
+  "updated_at": "19.06.2026 20:26:12",
+  "operation_id": "cloud_24170215d8b3",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
