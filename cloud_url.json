@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://epic-substantially-requested-components.trycloudflare.com",
-  "url": "https://epic-substantially-requested-components.trycloudflare.com",
-  "updated_at": "21.06.2026 13:14:44",
-  "operation_id": "cloud_db5860460cd5",
+  "cloud_url": "https://abc-departmental-buildings-munich.trycloudflare.com",
+  "url": "https://abc-departmental-buildings-munich.trycloudflare.com",
+  "updated_at": "21.06.2026 14:08:45",
+  "operation_id": "cloud_143c95d2022f",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
