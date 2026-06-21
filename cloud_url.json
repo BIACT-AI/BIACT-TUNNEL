@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://struct-launched-quarterly-killing.trycloudflare.com",
-  "url": "https://struct-launched-quarterly-killing.trycloudflare.com",
-  "updated_at": "21.06.2026 22:44:23",
-  "operation_id": "cloud_9c45fd583f7f",
+  "cloud_url": "https://dome-statewide-one-basin.trycloudflare.com",
+  "url": "https://dome-statewide-one-basin.trycloudflare.com",
+  "updated_at": "21.06.2026 23:09:15",
+  "operation_id": "cloud_017306e60d58",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
