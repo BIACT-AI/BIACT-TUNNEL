@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://tomorrow-weed-significant-autumn.trycloudflare.com",
-  "url": "https://tomorrow-weed-significant-autumn.trycloudflare.com",
-  "updated_at": "21.06.2026 16:52:21",
-  "operation_id": "cloud_63d6318e3519",
+  "cloud_url": "https://struct-launched-quarterly-killing.trycloudflare.com",
+  "url": "https://struct-launched-quarterly-killing.trycloudflare.com",
+  "updated_at": "21.06.2026 22:44:23",
+  "operation_id": "cloud_9c45fd583f7f",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
