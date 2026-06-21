@@ -2,8 +2,8 @@
   "ok": true,
   "cloud_url": "https://near-favor-ferry-championship.trycloudflare.com",
   "url": "https://near-favor-ferry-championship.trycloudflare.com",
-  "updated_at": "21.06.2026 12:14:55",
-  "operation_id": "cloud_5386d1731c39",
+  "updated_at": "21.06.2026 12:15:41",
+  "operation_id": "cloud_5f4ca3972393",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
