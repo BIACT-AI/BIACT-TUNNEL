@@ -2,8 +2,8 @@
   "ok": true,
   "cloud_url": "https://marco-bibliographic-ambassador-secondary.trycloudflare.com",
   "url": "https://marco-bibliographic-ambassador-secondary.trycloudflare.com",
-  "updated_at": "21.06.2026 12:36:15",
-  "operation_id": "cloud_9665f771adb0",
+  "updated_at": "21.06.2026 12:37:02",
+  "operation_id": "cloud_49dd5dcc236b",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
