@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://dome-statewide-one-basin.trycloudflare.com",
-  "url": "https://dome-statewide-one-basin.trycloudflare.com",
-  "updated_at": "21.06.2026 23:09:15",
-  "operation_id": "cloud_017306e60d58",
+  "cloud_url": "https://pale-innovative-notices-etc.trycloudflare.com",
+  "url": "https://pale-innovative-notices-etc.trycloudflare.com",
+  "updated_at": "21.06.2026 23:59:10",
+  "operation_id": "cloud_6bba798f775b",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
