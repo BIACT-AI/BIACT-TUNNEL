@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://abstracts-cancellation-delaware-alot.trycloudflare.com",
-  "url": "https://abstracts-cancellation-delaware-alot.trycloudflare.com",
-  "updated_at": "21.06.2026 16:42:21",
-  "operation_id": "cloud_6b0b5f8891f0",
+  "cloud_url": "https://tomorrow-weed-significant-autumn.trycloudflare.com",
+  "url": "https://tomorrow-weed-significant-autumn.trycloudflare.com",
+  "updated_at": "21.06.2026 16:52:21",
+  "operation_id": "cloud_63d6318e3519",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
