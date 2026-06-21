@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://allocated-amenities-volvo-encyclopedia.trycloudflare.com",
-  "url": "https://allocated-amenities-volvo-encyclopedia.trycloudflare.com",
-  "updated_at": "21.06.2026 12:35:29",
-  "operation_id": "cloud_28ef7666b85e",
+  "cloud_url": "https://marco-bibliographic-ambassador-secondary.trycloudflare.com",
+  "url": "https://marco-bibliographic-ambassador-secondary.trycloudflare.com",
+  "updated_at": "21.06.2026 12:35:57",
+  "operation_id": "cloud_007de2f9f351",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
