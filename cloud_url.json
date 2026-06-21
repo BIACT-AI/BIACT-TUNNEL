@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://marco-bibliographic-ambassador-secondary.trycloudflare.com",
-  "url": "https://marco-bibliographic-ambassador-secondary.trycloudflare.com",
-  "updated_at": "21.06.2026 12:40:10",
-  "operation_id": "cloud_2f2743f440cc",
+  "cloud_url": "https://epic-substantially-requested-components.trycloudflare.com",
+  "url": "https://epic-substantially-requested-components.trycloudflare.com",
+  "updated_at": "21.06.2026 13:14:44",
+  "operation_id": "cloud_db5860460cd5",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
