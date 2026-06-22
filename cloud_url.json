@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://pale-innovative-notices-etc.trycloudflare.com",
-  "url": "https://pale-innovative-notices-etc.trycloudflare.com",
-  "updated_at": "22.06.2026 00:04:41",
-  "operation_id": "cloud_08c6af02dac6",
+  "cloud_url": "https://guarantees-briefly-winds-pillow.trycloudflare.com",
+  "url": "https://guarantees-briefly-winds-pillow.trycloudflare.com",
+  "updated_at": "22.06.2026 07:53:04",
+  "operation_id": "cloud_d2903136b910",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
