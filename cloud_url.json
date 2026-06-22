@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://guarantees-briefly-winds-pillow.trycloudflare.com",
-  "url": "https://guarantees-briefly-winds-pillow.trycloudflare.com",
-  "updated_at": "22.06.2026 07:53:04",
-  "operation_id": "cloud_d2903136b910",
+  "cloud_url": "https://damaged-visible-marking-sees.trycloudflare.com",
+  "url": "https://damaged-visible-marking-sees.trycloudflare.com",
+  "updated_at": "22.06.2026 08:07:46",
+  "operation_id": "cloud_42bb0c81a99c",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
