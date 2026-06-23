@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://infrastructure-chemicals-mins-frames.trycloudflare.com",
-  "url": "https://infrastructure-chemicals-mins-frames.trycloudflare.com",
-  "updated_at": "22.06.2026 18:11:23",
-  "operation_id": "cloud_08557364477c",
+  "cloud_url": "https://louise-progress-keys-couple.trycloudflare.com",
+  "url": "https://louise-progress-keys-couple.trycloudflare.com",
+  "updated_at": "23.06.2026 07:55:59",
+  "operation_id": "cloud_d657af915aca",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
