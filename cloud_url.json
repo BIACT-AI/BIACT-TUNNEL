@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://zoning-she-personnel-config.trycloudflare.com",
-  "url": "https://zoning-she-personnel-config.trycloudflare.com",
-  "updated_at": "23.06.2026 20:58:23",
-  "operation_id": "cloud_9005dcb95c9a",
+  "cloud_url": "https://mortgages-gtk-worker-trying.trycloudflare.com",
+  "url": "https://mortgages-gtk-worker-trying.trycloudflare.com",
+  "updated_at": "23.06.2026 21:44:58",
+  "operation_id": "cloud_587c975c2abe",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
