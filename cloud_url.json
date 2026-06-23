@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://mortgages-gtk-worker-trying.trycloudflare.com",
-  "url": "https://mortgages-gtk-worker-trying.trycloudflare.com",
-  "updated_at": "23.06.2026 21:44:58",
-  "operation_id": "cloud_587c975c2abe",
+  "cloud_url": "https://betting-penalties-ssl-shell.trycloudflare.com",
+  "url": "https://betting-penalties-ssl-shell.trycloudflare.com",
+  "updated_at": "23.06.2026 22:07:20",
+  "operation_id": "cloud_c783a853ac80",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
