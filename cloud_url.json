@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://shall-biotechnology-playing-laden.trycloudflare.com",
-  "url": "https://shall-biotechnology-playing-laden.trycloudflare.com",
-  "updated_at": "24.06.2026 21:59:01",
-  "operation_id": "cloud_a5e8bb8953e7",
+  "cloud_url": "https://compile-volume-disclaimer-oral.trycloudflare.com",
+  "url": "https://compile-volume-disclaimer-oral.trycloudflare.com",
+  "updated_at": "25.06.2026 22:45:11",
+  "operation_id": "cloud_a069706694a8",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
