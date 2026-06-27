@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://consulting-tops-ham-rare.trycloudflare.com",
-  "url": "https://consulting-tops-ham-rare.trycloudflare.com",
-  "updated_at": "25.06.2026 23:56:11",
-  "operation_id": "cloud_bf66a91480af",
+  "cloud_url": "https://wifi-cho-blog-isaac.trycloudflare.com",
+  "url": "https://wifi-cho-blog-isaac.trycloudflare.com",
+  "updated_at": "27.06.2026 10:21:15",
+  "operation_id": "cloud_d981623ebb3d",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
