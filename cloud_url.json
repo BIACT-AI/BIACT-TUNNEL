@@ -2,8 +2,8 @@
   "ok": true,
   "cloud_url": "https://wifi-cho-blog-isaac.trycloudflare.com",
   "url": "https://wifi-cho-blog-isaac.trycloudflare.com",
-  "updated_at": "27.06.2026 10:22:02",
-  "operation_id": "cloud_6ea039c72e8b",
+  "updated_at": "27.06.2026 10:22:49",
+  "operation_id": "cloud_77b05867f026",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
