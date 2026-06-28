@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://stat-cage-volumes-duke.trycloudflare.com",
-  "url": "https://stat-cage-volumes-duke.trycloudflare.com",
-  "updated_at": "27.06.2026 10:59:37",
-  "operation_id": "cloud_67ec926139d0",
+  "cloud_url": "https://innovative-built-major-wonderful.trycloudflare.com",
+  "url": "https://innovative-built-major-wonderful.trycloudflare.com",
+  "updated_at": "28.06.2026 11:44:25",
+  "operation_id": "cloud_da64a82b24a7",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
