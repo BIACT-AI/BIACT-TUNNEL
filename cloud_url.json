@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://strict-presentation-tattoo-yard.trycloudflare.com",
-  "url": "https://strict-presentation-tattoo-yard.trycloudflare.com",
-  "updated_at": "29.06.2026 17:11:19",
-  "operation_id": "cloud_400fc1eb15ca",
+  "cloud_url": "https://resolution-performs-slowly-drawn.trycloudflare.com",
+  "url": "https://resolution-performs-slowly-drawn.trycloudflare.com",
+  "updated_at": "29.06.2026 22:45:50",
+  "operation_id": "cloud_d166a74097a2",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
