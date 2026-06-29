@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://crop-blvd-then-woods.trycloudflare.com",
-  "url": "https://crop-blvd-then-woods.trycloudflare.com",
-  "updated_at": "28.06.2026 22:53:03",
-  "operation_id": "cloud_baf729315fb1",
+  "cloud_url": "https://editions-cartoons-closes-make.trycloudflare.com",
+  "url": "https://editions-cartoons-closes-make.trycloudflare.com",
+  "updated_at": "29.06.2026 06:43:36",
+  "operation_id": "cloud_5e5dec508ace",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
