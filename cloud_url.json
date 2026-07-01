@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://fda-hostels-structure-simultaneously.trycloudflare.com",
-  "url": "https://fda-hostels-structure-simultaneously.trycloudflare.com",
-  "updated_at": "01.07.2026 21:32:25",
-  "operation_id": "cloud_0596c5cd8d4f",
+  "cloud_url": "https://disks-humanity-results-magic.trycloudflare.com",
+  "url": "https://disks-humanity-results-magic.trycloudflare.com",
+  "updated_at": "01.07.2026 22:54:03",
+  "operation_id": "cloud_19da91c338e1",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
