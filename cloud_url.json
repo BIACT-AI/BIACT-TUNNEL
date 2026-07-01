@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://disks-humanity-results-magic.trycloudflare.com",
-  "url": "https://disks-humanity-results-magic.trycloudflare.com",
-  "updated_at": "01.07.2026 22:54:03",
-  "operation_id": "cloud_19da91c338e1",
+  "cloud_url": "https://emily-browser-marcus-investigators.trycloudflare.com",
+  "url": "https://emily-browser-marcus-investigators.trycloudflare.com",
+  "updated_at": "01.07.2026 23:10:41",
+  "operation_id": "cloud_dfb10647f55c",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
