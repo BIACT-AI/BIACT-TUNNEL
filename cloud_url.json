@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://grams-references-processing-barnes.trycloudflare.com",
-  "url": "https://grams-references-processing-barnes.trycloudflare.com",
-  "updated_at": "04.07.2026 13:07:19",
-  "operation_id": "cloud_97c565c19631",
+  "cloud_url": "https://essay-bars-bald-syracuse.trycloudflare.com",
+  "url": "https://essay-bars-bald-syracuse.trycloudflare.com",
+  "updated_at": "04.07.2026 20:35:28",
+  "operation_id": "cloud_60a706f56c78",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
