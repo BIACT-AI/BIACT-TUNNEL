@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://essay-bars-bald-syracuse.trycloudflare.com",
-  "url": "https://essay-bars-bald-syracuse.trycloudflare.com",
-  "updated_at": "04.07.2026 20:35:28",
-  "operation_id": "cloud_60a706f56c78",
+  "cloud_url": "https://solaris-kde-expect-raleigh.trycloudflare.com",
+  "url": "https://solaris-kde-expect-raleigh.trycloudflare.com",
+  "updated_at": "04.07.2026 21:49:29",
+  "operation_id": "cloud_811b98f6f2de",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
