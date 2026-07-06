@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://bones-try-artists-prompt.trycloudflare.com",
-  "url": "https://bones-try-artists-prompt.trycloudflare.com",
-  "updated_at": "06.07.2026 22:54:10",
-  "operation_id": "cloud_ddd21515c591",
+  "cloud_url": "https://creatures-dialogue-labor-certain.trycloudflare.com",
+  "url": "https://creatures-dialogue-labor-certain.trycloudflare.com",
+  "updated_at": "07.07.2026 00:14:38",
+  "operation_id": "cloud_03f63fdd0bfd",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
