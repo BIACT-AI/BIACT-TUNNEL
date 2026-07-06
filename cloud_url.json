@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://solaris-kde-expect-raleigh.trycloudflare.com",
-  "url": "https://solaris-kde-expect-raleigh.trycloudflare.com",
-  "updated_at": "04.07.2026 21:49:29",
-  "operation_id": "cloud_811b98f6f2de",
+  "cloud_url": "https://offshore-unix-wichita-purchases.trycloudflare.com",
+  "url": "https://offshore-unix-wichita-purchases.trycloudflare.com",
+  "updated_at": "06.07.2026 15:03:17",
+  "operation_id": "cloud_ebcc2f281980",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
