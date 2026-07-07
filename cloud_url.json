@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://minister-virtual-suited-end.trycloudflare.com",
-  "url": "https://minister-virtual-suited-end.trycloudflare.com",
-  "updated_at": "07.07.2026 15:31:19",
-  "operation_id": "cloud_6491d4b7b85a",
+  "cloud_url": "https://findarticles-intended-correspondence-briefly.trycloudflare.com",
+  "url": "https://findarticles-intended-correspondence-briefly.trycloudflare.com",
+  "updated_at": "07.07.2026 16:10:16",
+  "operation_id": "cloud_929f45f38fe9",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
