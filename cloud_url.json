@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://knitting-via-marking-bronze.trycloudflare.com",
-  "url": "https://knitting-via-marking-bronze.trycloudflare.com",
-  "updated_at": "08.07.2026 11:47:05",
-  "operation_id": "cloud_b00da0a8c474",
+  "cloud_url": "https://discussions-stereo-kathy-providing.trycloudflare.com",
+  "url": "https://discussions-stereo-kathy-providing.trycloudflare.com",
+  "updated_at": "08.07.2026 12:41:22",
+  "operation_id": "cloud_d1a49350ec8e",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
