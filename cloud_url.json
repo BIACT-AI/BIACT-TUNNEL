@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://patent-birds-soviet-park.trycloudflare.com",
-  "url": "https://patent-birds-soviet-park.trycloudflare.com",
-  "updated_at": "17.07.2026 09:18:56",
-  "operation_id": "cloud_2a2676c3b458",
+  "cloud_url": "https://career-tours-theology-template.trycloudflare.com",
+  "url": "https://career-tours-theology-template.trycloudflare.com",
+  "updated_at": "17.07.2026 17:37:52",
+  "operation_id": "cloud_19ebe4cb48b4",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
