@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://career-tours-theology-template.trycloudflare.com",
-  "url": "https://career-tours-theology-template.trycloudflare.com",
-  "updated_at": "17.07.2026 17:37:52",
-  "operation_id": "cloud_19ebe4cb48b4",
+  "cloud_url": "https://starts-sleeps-briefing-chairs.trycloudflare.com",
+  "url": "https://starts-sleeps-briefing-chairs.trycloudflare.com",
+  "updated_at": "17.07.2026 17:58:51",
+  "operation_id": "cloud_f8c3a20dcace",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
