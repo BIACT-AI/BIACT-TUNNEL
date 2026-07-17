@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://briefly-pulled-convention-outstanding.trycloudflare.com",
-  "url": "https://briefly-pulled-convention-outstanding.trycloudflare.com",
-  "updated_at": "16.07.2026 21:49:00",
-  "operation_id": "cloud_3b7fc02df21d",
+  "cloud_url": "https://sector-counsel-courier-twelve.trycloudflare.com",
+  "url": "https://sector-counsel-courier-twelve.trycloudflare.com",
+  "updated_at": "17.07.2026 08:51:11",
+  "operation_id": "cloud_a4bcf68364b2",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
