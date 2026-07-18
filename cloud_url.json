@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://starts-sleeps-briefing-chairs.trycloudflare.com",
-  "url": "https://starts-sleeps-briefing-chairs.trycloudflare.com",
-  "updated_at": "17.07.2026 17:58:51",
-  "operation_id": "cloud_f8c3a20dcace",
+  "cloud_url": "https://joke-envelope-connectivity-marble.trycloudflare.com",
+  "url": "https://joke-envelope-connectivity-marble.trycloudflare.com",
+  "updated_at": "18.07.2026 10:22:54",
+  "operation_id": "cloud_cf3336cbcf03",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
