@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://reproduce-bias-favourites-kent.trycloudflare.com",
-  "url": "https://reproduce-bias-favourites-kent.trycloudflare.com",
-  "updated_at": "19.07.2026 13:27:02",
-  "operation_id": "cloud_5bcdf4970284",
+  "cloud_url": "https://madonna-dollars-sample-conducted.trycloudflare.com",
+  "url": "https://madonna-dollars-sample-conducted.trycloudflare.com",
+  "updated_at": "19.07.2026 13:44:34",
+  "operation_id": "cloud_0fa5def3aab9",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
