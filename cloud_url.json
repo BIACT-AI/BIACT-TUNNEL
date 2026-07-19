@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://intro-realized-contest-telecom.trycloudflare.com",
-  "url": "https://intro-realized-contest-telecom.trycloudflare.com",
-  "updated_at": "18.07.2026 14:58:13",
-  "operation_id": "cloud_a127b154e9fc",
+  "cloud_url": "https://reproduce-bias-favourites-kent.trycloudflare.com",
+  "url": "https://reproduce-bias-favourites-kent.trycloudflare.com",
+  "updated_at": "19.07.2026 13:27:02",
+  "operation_id": "cloud_5bcdf4970284",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
