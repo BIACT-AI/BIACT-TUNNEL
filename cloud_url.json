@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://anne-shopping-picks-sized.trycloudflare.com",
-  "url": "https://anne-shopping-picks-sized.trycloudflare.com",
-  "updated_at": "23.07.2026 20:14:34",
-  "operation_id": "cloud_87e041bc9919",
+  "cloud_url": "https://message-citation-previews-mass.trycloudflare.com",
+  "url": "https://message-citation-previews-mass.trycloudflare.com",
+  "updated_at": "24.07.2026 16:55:19",
+  "operation_id": "cloud_c7b6cc2a7a91",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
