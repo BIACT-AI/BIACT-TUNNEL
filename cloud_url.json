@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://message-citation-previews-mass.trycloudflare.com",
-  "url": "https://message-citation-previews-mass.trycloudflare.com",
-  "updated_at": "24.07.2026 16:55:19",
-  "operation_id": "cloud_c7b6cc2a7a91",
+  "cloud_url": "https://expertise-charms-mega-restrict.trycloudflare.com",
+  "url": "https://expertise-charms-mega-restrict.trycloudflare.com",
+  "updated_at": "25.07.2026 09:37:50",
+  "operation_id": "cloud_6ebba5afaf5b",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
