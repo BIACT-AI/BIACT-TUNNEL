@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://lawrence-trusts-pharmacy-jurisdiction.trycloudflare.com",
-  "url": "https://lawrence-trusts-pharmacy-jurisdiction.trycloudflare.com",
-  "updated_at": "25.07.2026 11:42:10",
-  "operation_id": "cloud_db8454463775",
+  "cloud_url": "https://registry-marine-displaying-gentle.trycloudflare.com",
+  "url": "https://registry-marine-displaying-gentle.trycloudflare.com",
+  "updated_at": "25.07.2026 16:28:53",
+  "operation_id": "cloud_bfca7dab3924",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
