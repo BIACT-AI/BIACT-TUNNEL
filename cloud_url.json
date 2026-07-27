@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://bridge-sodium-resource-explanation.trycloudflare.com",
-  "url": "https://bridge-sodium-resource-explanation.trycloudflare.com",
-  "updated_at": "27.07.2026 10:14:28",
-  "operation_id": "cloud_2a09cef214b9",
+  "cloud_url": "https://than-philip-depot-vat.trycloudflare.com",
+  "url": "https://than-philip-depot-vat.trycloudflare.com",
+  "updated_at": "27.07.2026 12:49:45",
+  "operation_id": "cloud_ee7c159310e4",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
