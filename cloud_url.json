@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://lease-physical-neil-offline.trycloudflare.com",
-  "url": "https://lease-physical-neil-offline.trycloudflare.com",
-  "updated_at": "27.07.2026 15:56:52",
-  "operation_id": "cloud_63f30a2b2407",
+  "cloud_url": "https://identifies-throwing-ana-contacting.trycloudflare.com",
+  "url": "https://identifies-throwing-ana-contacting.trycloudflare.com",
+  "updated_at": "28.07.2026 08:26:34",
+  "operation_id": "cloud_598261488c13",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
