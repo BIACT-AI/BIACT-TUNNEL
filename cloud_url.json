@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://jury-stones-opportunities-config.trycloudflare.com",
-  "url": "https://jury-stones-opportunities-config.trycloudflare.com",
-  "updated_at": "03.08.2026 18:51:12",
-  "operation_id": "cloud_9eb091ba6e31",
+  "cloud_url": "https://sponsored-current-brothers-urban.trycloudflare.com",
+  "url": "https://sponsored-current-brothers-urban.trycloudflare.com",
+  "updated_at": "03.08.2026 19:30:01",
+  "operation_id": "cloud_a9e9cd96b8fd",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
