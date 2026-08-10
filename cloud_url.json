@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://packet-apt-curtis-innovations.trycloudflare.com",
-  "url": "https://packet-apt-curtis-innovations.trycloudflare.com",
-  "updated_at": "10.08.2026 18:58:02",
-  "operation_id": "cloud_9f0bd8b528b8",
+  "cloud_url": "https://reviews-easily-informal-institution.trycloudflare.com",
+  "url": "https://reviews-easily-informal-institution.trycloudflare.com",
+  "updated_at": "10.08.2026 23:03:18",
+  "operation_id": "cloud_1033272b18f2",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
