@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://sponsored-current-brothers-urban.trycloudflare.com",
-  "url": "https://sponsored-current-brothers-urban.trycloudflare.com",
-  "updated_at": "03.08.2026 19:30:01",
-  "operation_id": "cloud_a9e9cd96b8fd",
+  "cloud_url": "https://packet-apt-curtis-innovations.trycloudflare.com",
+  "url": "https://packet-apt-curtis-innovations.trycloudflare.com",
+  "updated_at": "10.08.2026 18:58:02",
+  "operation_id": "cloud_9f0bd8b528b8",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
