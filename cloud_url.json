@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://start-lyric-starts-officer.trycloudflare.com",
-  "url": "https://start-lyric-starts-officer.trycloudflare.com",
-  "updated_at": "11.08.2026 16:45:56",
-  "operation_id": "cloud_e23bd556483d",
+  "cloud_url": "https://cumulative-street-decor-items.trycloudflare.com",
+  "url": "https://cumulative-street-decor-items.trycloudflare.com",
+  "updated_at": "11.08.2026 21:33:47",
+  "operation_id": "cloud_e789776e90da",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
