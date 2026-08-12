@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://extras-review-escape-transcripts.trycloudflare.com",
-  "url": "https://extras-review-escape-transcripts.trycloudflare.com",
-  "updated_at": "12.08.2026 07:04:53",
-  "operation_id": "cloud_fa8aca04db02",
+  "cloud_url": "https://aluminum-appears-prev-palm.trycloudflare.com",
+  "url": "https://aluminum-appears-prev-palm.trycloudflare.com",
+  "updated_at": "12.08.2026 17:05:57",
+  "operation_id": "cloud_770e58f9cc92",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
