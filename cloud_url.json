@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://approximately-basin-goals-past.trycloudflare.com",
-  "url": "https://approximately-basin-goals-past.trycloudflare.com",
-  "updated_at": "13.08.2026 22:11:37",
-  "operation_id": "cloud_6098c85fd8d8",
+  "cloud_url": "https://towns-developers-desirable-surgical.trycloudflare.com",
+  "url": "https://towns-developers-desirable-surgical.trycloudflare.com",
+  "updated_at": "13.08.2026 22:21:59",
+  "operation_id": "cloud_ad5b8f10b90f",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
