@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://pos-highest-mil-rpm.trycloudflare.com",
-  "url": "https://pos-highest-mil-rpm.trycloudflare.com",
-  "updated_at": "13.08.2026 18:38:12",
-  "operation_id": "cloud_f0ea76e76a8b",
+  "cloud_url": "https://approximately-basin-goals-past.trycloudflare.com",
+  "url": "https://approximately-basin-goals-past.trycloudflare.com",
+  "updated_at": "13.08.2026 22:11:37",
+  "operation_id": "cloud_6098c85fd8d8",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
