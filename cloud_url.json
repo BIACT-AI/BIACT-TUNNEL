@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://kansas-definition-miracle-region.trycloudflare.com",
-  "url": "https://kansas-definition-miracle-region.trycloudflare.com",
-  "updated_at": "17.08.2026 10:11:48",
-  "operation_id": "cloud_082f96030592",
+  "cloud_url": "https://singer-kingston-villages-sophisticated.trycloudflare.com",
+  "url": "https://singer-kingston-villages-sophisticated.trycloudflare.com",
+  "updated_at": "17.08.2026 15:11:10",
+  "operation_id": "cloud_fd39f0436b1f",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
