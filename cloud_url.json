@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://singer-kingston-villages-sophisticated.trycloudflare.com",
-  "url": "https://singer-kingston-villages-sophisticated.trycloudflare.com",
-  "updated_at": "17.08.2026 15:11:10",
-  "operation_id": "cloud_fd39f0436b1f",
+  "cloud_url": "https://upload-availability-improvement-polyphonic.trycloudflare.com",
+  "url": "https://upload-availability-improvement-polyphonic.trycloudflare.com",
+  "updated_at": "18.08.2026 19:19:01",
+  "operation_id": "cloud_b3ef5a9acd5d",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
