@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://upload-availability-improvement-polyphonic.trycloudflare.com",
-  "url": "https://upload-availability-improvement-polyphonic.trycloudflare.com",
-  "updated_at": "18.08.2026 19:19:01",
-  "operation_id": "cloud_b3ef5a9acd5d",
+  "cloud_url": "https://button-mysql-register-difficulty.trycloudflare.com",
+  "url": "https://button-mysql-register-difficulty.trycloudflare.com",
+  "updated_at": "19.08.2026 12:05:47",
+  "operation_id": "cloud_b1909cb64c39",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
