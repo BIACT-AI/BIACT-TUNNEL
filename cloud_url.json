@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://button-mysql-register-difficulty.trycloudflare.com",
-  "url": "https://button-mysql-register-difficulty.trycloudflare.com",
-  "updated_at": "19.08.2026 12:05:47",
-  "operation_id": "cloud_b1909cb64c39",
+  "cloud_url": "https://male-dried-grid-putting.trycloudflare.com",
+  "url": "https://male-dried-grid-putting.trycloudflare.com",
+  "updated_at": "20.08.2026 16:50:00",
+  "operation_id": "cloud_5fd1b776280a",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
