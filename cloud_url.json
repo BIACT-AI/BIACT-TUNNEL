@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://male-dried-grid-putting.trycloudflare.com",
-  "url": "https://male-dried-grid-putting.trycloudflare.com",
-  "updated_at": "20.08.2026 16:50:00",
-  "operation_id": "cloud_5fd1b776280a",
+  "cloud_url": "https://initiatives-est-hollywood-cartoons.trycloudflare.com",
+  "url": "https://initiatives-est-hollywood-cartoons.trycloudflare.com",
+  "updated_at": "21.08.2026 09:44:45",
+  "operation_id": "cloud_8d4c9e6adcb5",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
