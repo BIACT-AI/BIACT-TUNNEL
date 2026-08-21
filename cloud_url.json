@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://initiatives-est-hollywood-cartoons.trycloudflare.com",
-  "url": "https://initiatives-est-hollywood-cartoons.trycloudflare.com",
-  "updated_at": "21.08.2026 09:44:45",
-  "operation_id": "cloud_8d4c9e6adcb5",
+  "cloud_url": "https://stanley-miller-luggage-tuning.trycloudflare.com",
+  "url": "https://stanley-miller-luggage-tuning.trycloudflare.com",
+  "updated_at": "21.08.2026 16:32:41",
+  "operation_id": "cloud_27949bb6336c",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
