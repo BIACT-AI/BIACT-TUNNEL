@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://stanley-miller-luggage-tuning.trycloudflare.com",
-  "url": "https://stanley-miller-luggage-tuning.trycloudflare.com",
-  "updated_at": "21.08.2026 16:32:41",
-  "operation_id": "cloud_27949bb6336c",
+  "cloud_url": "https://delete-psychiatry-verified-pond.trycloudflare.com",
+  "url": "https://delete-psychiatry-verified-pond.trycloudflare.com",
+  "updated_at": "22.08.2026 17:39:30",
+  "operation_id": "cloud_85edcb56d220",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
