@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://delete-psychiatry-verified-pond.trycloudflare.com",
-  "url": "https://delete-psychiatry-verified-pond.trycloudflare.com",
-  "updated_at": "22.08.2026 17:39:30",
-  "operation_id": "cloud_85edcb56d220",
+  "cloud_url": "https://michel-members-mini-titles.trycloudflare.com",
+  "url": "https://michel-members-mini-titles.trycloudflare.com",
+  "updated_at": "23.08.2026 11:13:06",
+  "operation_id": "cloud_448becb3d432",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
