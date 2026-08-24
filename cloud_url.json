@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://banner-magnet-weight-improve.trycloudflare.com",
-  "url": "https://banner-magnet-weight-improve.trycloudflare.com",
-  "updated_at": "24.08.2026 04:01:37",
-  "operation_id": "cloud_55226140c82c",
+  "cloud_url": "https://posters-wit-silence-enclosed.trycloudflare.com",
+  "url": "https://posters-wit-silence-enclosed.trycloudflare.com",
+  "updated_at": "24.08.2026 11:08:18",
+  "operation_id": "cloud_94c1344d14df",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
