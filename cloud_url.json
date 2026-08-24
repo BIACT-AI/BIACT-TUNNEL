@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://theories-incidence-antenna-joe.trycloudflare.com",
-  "url": "https://theories-incidence-antenna-joe.trycloudflare.com",
-  "updated_at": "23.08.2026 21:39:20",
-  "operation_id": "cloud_5d298c36d5ce",
+  "cloud_url": "https://victoria-witch-dangerous-international.trycloudflare.com",
+  "url": "https://victoria-witch-dangerous-international.trycloudflare.com",
+  "updated_at": "24.08.2026 03:42:08",
+  "operation_id": "cloud_79fcdfc05e1c",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
