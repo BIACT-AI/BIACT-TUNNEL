@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://stores-examinations-confidence-fall.trycloudflare.com",
-  "url": "https://stores-examinations-confidence-fall.trycloudflare.com",
-  "updated_at": "24.08.2026 11:59:43",
-  "operation_id": "cloud_a4f27785fdfa",
+  "cloud_url": "https://peninsula-sky-command-low.trycloudflare.com",
+  "url": "https://peninsula-sky-command-low.trycloudflare.com",
+  "updated_at": "24.08.2026 12:09:56",
+  "operation_id": "cloud_01959d8a029a",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
