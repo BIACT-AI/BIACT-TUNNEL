@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://peninsula-sky-command-low.trycloudflare.com",
-  "url": "https://peninsula-sky-command-low.trycloudflare.com",
-  "updated_at": "24.08.2026 12:09:56",
-  "operation_id": "cloud_01959d8a029a",
+  "cloud_url": "https://sleeping-warnings-idea-patients.trycloudflare.com",
+  "url": "https://sleeping-warnings-idea-patients.trycloudflare.com",
+  "updated_at": "24.08.2026 16:34:52",
+  "operation_id": "cloud_8c80869d7767",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
