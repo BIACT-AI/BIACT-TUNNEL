@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://sporting-tutorial-fans-governance.trycloudflare.com",
-  "url": "https://sporting-tutorial-fans-governance.trycloudflare.com",
-  "updated_at": "26.08.2026 11:15:57",
-  "operation_id": "cloud_24e37187c578",
+  "cloud_url": "https://poker-bomb-vacations-bruce.trycloudflare.com",
+  "url": "https://poker-bomb-vacations-bruce.trycloudflare.com",
+  "updated_at": "26.08.2026 13:09:11",
+  "operation_id": "cloud_2c57b5231168",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
