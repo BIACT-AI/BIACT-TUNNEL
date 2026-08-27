@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://temporal-roy-undertaken-tom.trycloudflare.com",
-  "url": "https://temporal-roy-undertaken-tom.trycloudflare.com",
-  "updated_at": "26.08.2026 16:09:51",
-  "operation_id": "cloud_59f29505a184",
+  "cloud_url": "https://affiliation-attitudes-shared-authority.trycloudflare.com",
+  "url": "https://affiliation-attitudes-shared-authority.trycloudflare.com",
+  "updated_at": "27.08.2026 10:10:52",
+  "operation_id": "cloud_1494ba4e6429",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
