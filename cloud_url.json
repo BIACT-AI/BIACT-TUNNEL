@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://ball-proc-guam-latitude.trycloudflare.com",
-  "url": "https://ball-proc-guam-latitude.trycloudflare.com",
-  "updated_at": "13.09.2026 19:03:06",
-  "operation_id": "cloud_05c895ff3400",
+  "cloud_url": "https://dubai-drivers-estimation-lit.trycloudflare.com",
+  "url": "https://dubai-drivers-estimation-lit.trycloudflare.com",
+  "updated_at": "13.09.2026 19:13:30",
+  "operation_id": "cloud_4acfe73964c8",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
