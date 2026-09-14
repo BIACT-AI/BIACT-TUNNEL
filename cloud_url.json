@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://lodge-methodology-significance-assessing.trycloudflare.com",
-  "url": "https://lodge-methodology-significance-assessing.trycloudflare.com",
-  "updated_at": "13.09.2026 19:56:28",
-  "operation_id": "cloud_13962fa357fc",
+  "cloud_url": "https://billy-furthermore-use-models.trycloudflare.com",
+  "url": "https://billy-furthermore-use-models.trycloudflare.com",
+  "updated_at": "14.09.2026 16:49:44",
+  "operation_id": "cloud_c72fa323cc39",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
