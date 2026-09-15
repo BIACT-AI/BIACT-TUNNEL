@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://insider-prevention-regarded-halifax.trycloudflare.com",
-  "url": "https://insider-prevention-regarded-halifax.trycloudflare.com",
-  "updated_at": "14.09.2026 17:01:02",
-  "operation_id": "cloud_5aae265e28ac",
+  "cloud_url": "https://released-flu-quantum-scientist.trycloudflare.com",
+  "url": "https://released-flu-quantum-scientist.trycloudflare.com",
+  "updated_at": "15.09.2026 16:44:02",
+  "operation_id": "cloud_fa45a068ec62",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
