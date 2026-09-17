@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://scholarships-numerous-clients-bond.trycloudflare.com",
-  "url": "https://scholarships-numerous-clients-bond.trycloudflare.com",
-  "updated_at": "17.09.2026 16:48:40",
-  "operation_id": "cloud_021892dc8e4e",
+  "cloud_url": "https://sake-hunt-loop-debug.trycloudflare.com",
+  "url": "https://sake-hunt-loop-debug.trycloudflare.com",
+  "updated_at": "17.09.2026 21:15:07",
+  "operation_id": "cloud_8f3b87951e50",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
