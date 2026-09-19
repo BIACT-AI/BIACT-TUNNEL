@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://annex-tail-slip-construct.trycloudflare.com",
-  "url": "https://annex-tail-slip-construct.trycloudflare.com",
-  "updated_at": "19.09.2026 13:18:51",
-  "operation_id": "cloud_be8deda5da91",
+  "cloud_url": "https://merely-spaces-agencies-plain.trycloudflare.com",
+  "url": "https://merely-spaces-agencies-plain.trycloudflare.com",
+  "updated_at": "19.09.2026 15:31:58",
+  "operation_id": "cloud_3c277c099161",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
