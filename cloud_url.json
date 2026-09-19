@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://designs-academics-stud-utc.trycloudflare.com",
-  "url": "https://designs-academics-stud-utc.trycloudflare.com",
-  "updated_at": "18.09.2026 16:44:22",
-  "operation_id": "cloud_c89c170bc2af",
+  "cloud_url": "https://garden-thumbnail-silicon-desire.trycloudflare.com",
+  "url": "https://garden-thumbnail-silicon-desire.trycloudflare.com",
+  "updated_at": "19.09.2026 11:26:12",
+  "operation_id": "cloud_0efaf7cb1497",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
