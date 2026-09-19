@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://garden-thumbnail-silicon-desire.trycloudflare.com",
-  "url": "https://garden-thumbnail-silicon-desire.trycloudflare.com",
-  "updated_at": "19.09.2026 11:26:12",
-  "operation_id": "cloud_0efaf7cb1497",
+  "cloud_url": "https://annex-tail-slip-construct.trycloudflare.com",
+  "url": "https://annex-tail-slip-construct.trycloudflare.com",
+  "updated_at": "19.09.2026 13:18:51",
+  "operation_id": "cloud_be8deda5da91",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
