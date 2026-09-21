@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://prizes-began-solar-consultancy.trycloudflare.com",
-  "url": "https://prizes-began-solar-consultancy.trycloudflare.com",
-  "updated_at": "21.09.2026 11:07:33",
-  "operation_id": "cloud_68ffbb5dd656",
+  "cloud_url": "https://wear-vids-configuration-philips.trycloudflare.com",
+  "url": "https://wear-vids-configuration-philips.trycloudflare.com",
+  "updated_at": "21.09.2026 11:36:25",
+  "operation_id": "cloud_0f3d6550e5be",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
