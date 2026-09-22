@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://because-duplicate-dsc-making.trycloudflare.com",
-  "url": "https://because-duplicate-dsc-making.trycloudflare.com",
-  "updated_at": "22.09.2026 10:51:08",
-  "operation_id": "cloud_565b01d60bb2",
+  "cloud_url": "https://fact-postings-ads-switching.trycloudflare.com",
+  "url": "https://fact-postings-ads-switching.trycloudflare.com",
+  "updated_at": "22.09.2026 17:25:29",
+  "operation_id": "cloud_b614a3b2b2a2",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
