@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://ridge-surplus-forms-trim.trycloudflare.com",
-  "url": "https://ridge-surplus-forms-trim.trycloudflare.com",
-  "updated_at": "21.09.2026 16:43:19",
-  "operation_id": "cloud_b7ddffc0e6fc",
+  "cloud_url": "https://outside-leasing-surround-bars.trycloudflare.com",
+  "url": "https://outside-leasing-surround-bars.trycloudflare.com",
+  "updated_at": "22.09.2026 08:33:13",
+  "operation_id": "cloud_77883c9cbdf6",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
