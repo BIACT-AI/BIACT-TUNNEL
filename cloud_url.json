@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://paying-ppm-clock-lender.trycloudflare.com",
-  "url": "https://paying-ppm-clock-lender.trycloudflare.com",
-  "updated_at": "22.09.2026 17:46:28",
-  "operation_id": "cloud_6b8788a17bd7",
+  "cloud_url": "https://voice-bias-sims-pathology.trycloudflare.com",
+  "url": "https://voice-bias-sims-pathology.trycloudflare.com",
+  "updated_at": "22.09.2026 19:17:50",
+  "operation_id": "cloud_dbe762e81a95",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
