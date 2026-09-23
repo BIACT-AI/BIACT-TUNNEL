@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://tray-diagram-computer-ref.trycloudflare.com",
-  "url": "https://tray-diagram-computer-ref.trycloudflare.com",
-  "updated_at": "23.09.2026 00:05:16",
-  "operation_id": "cloud_2d0a3005662e",
+  "cloud_url": "https://helen-express-elite-twiki.trycloudflare.com",
+  "url": "https://helen-express-elite-twiki.trycloudflare.com",
+  "updated_at": "23.09.2026 08:05:01",
+  "operation_id": "cloud_f3990bc54d4b",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
