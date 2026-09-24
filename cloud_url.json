@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://random-rats-olive-joint.trycloudflare.com",
-  "url": "https://random-rats-olive-joint.trycloudflare.com",
-  "updated_at": "24.09.2026 16:51:24",
-  "operation_id": "cloud_7322910e4908",
+  "cloud_url": "https://jones-newark-morrison-pacific.trycloudflare.com",
+  "url": "https://jones-newark-morrison-pacific.trycloudflare.com",
+  "updated_at": "24.09.2026 20:31:42",
+  "operation_id": "cloud_eb88aa960934",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
