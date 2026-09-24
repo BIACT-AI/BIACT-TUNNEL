@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://omissions-tracked-let-forests.trycloudflare.com",
-  "url": "https://omissions-tracked-let-forests.trycloudflare.com",
-  "updated_at": "24.09.2026 23:50:08",
-  "operation_id": "cloud_9637a00dfed3",
+  "cloud_url": "https://baby-semiconductor-partners-throws.trycloudflare.com",
+  "url": "https://baby-semiconductor-partners-throws.trycloudflare.com",
+  "updated_at": "25.09.2026 01:05:34",
+  "operation_id": "cloud_4eed5f613a6e",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
