@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://quality-shades-mon-parade.trycloudflare.com",
-  "url": "https://quality-shades-mon-parade.trycloudflare.com",
-  "updated_at": "24.09.2026 23:39:45",
-  "operation_id": "cloud_31660e6a23de",
+  "cloud_url": "https://omissions-tracked-let-forests.trycloudflare.com",
+  "url": "https://omissions-tracked-let-forests.trycloudflare.com",
+  "updated_at": "24.09.2026 23:50:08",
+  "operation_id": "cloud_9637a00dfed3",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
