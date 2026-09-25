@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://canal-secrets-expected-impacts.trycloudflare.com",
-  "url": "https://canal-secrets-expected-impacts.trycloudflare.com",
-  "updated_at": "25.09.2026 18:37:39",
-  "operation_id": "cloud_9826f5ab56c5",
+  "cloud_url": "https://champion-distributor-cancer-fighter.trycloudflare.com",
+  "url": "https://champion-distributor-cancer-fighter.trycloudflare.com",
+  "updated_at": "25.09.2026 18:48:11",
+  "operation_id": "cloud_173cebc20e2c",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
