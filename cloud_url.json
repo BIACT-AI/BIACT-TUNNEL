@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://champion-distributor-cancer-fighter.trycloudflare.com",
-  "url": "https://champion-distributor-cancer-fighter.trycloudflare.com",
-  "updated_at": "25.09.2026 18:48:11",
-  "operation_id": "cloud_173cebc20e2c",
+  "cloud_url": "https://championships-seconds-thread-proposal.trycloudflare.com",
+  "url": "https://championships-seconds-thread-proposal.trycloudflare.com",
+  "updated_at": "26.09.2026 01:06:35",
+  "operation_id": "cloud_b7619d61c871",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
