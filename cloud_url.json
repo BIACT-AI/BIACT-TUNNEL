@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://championships-seconds-thread-proposal.trycloudflare.com",
-  "url": "https://championships-seconds-thread-proposal.trycloudflare.com",
-  "updated_at": "26.09.2026 01:06:35",
-  "operation_id": "cloud_b7619d61c871",
+  "cloud_url": "https://vegas-cherry-fridge-friend.trycloudflare.com",
+  "url": "https://vegas-cherry-fridge-friend.trycloudflare.com",
+  "updated_at": "26.09.2026 10:56:33",
+  "operation_id": "cloud_467aa6a8b4d3",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
