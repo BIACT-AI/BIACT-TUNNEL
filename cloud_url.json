@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://circulation-coordinate-featuring-woods.trycloudflare.com",
-  "url": "https://circulation-coordinate-featuring-woods.trycloudflare.com",
-  "updated_at": "26.09.2026 19:35:24",
-  "operation_id": "cloud_c27153555134",
+  "cloud_url": "https://florence-scoop-dana-shade.trycloudflare.com",
+  "url": "https://florence-scoop-dana-shade.trycloudflare.com",
+  "updated_at": "26.09.2026 19:50:47",
+  "operation_id": "cloud_eb883b3c8f71",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
