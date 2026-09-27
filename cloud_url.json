@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://hopkins-finite-dealers-captured.trycloudflare.com",
-  "url": "https://hopkins-finite-dealers-captured.trycloudflare.com",
-  "updated_at": "26.09.2026 21:44:00",
-  "operation_id": "cloud_3d893e8a1681",
+  "cloud_url": "https://tigers-wagon-wit-textile.trycloudflare.com",
+  "url": "https://tigers-wagon-wit-textile.trycloudflare.com",
+  "updated_at": "27.09.2026 18:06:53",
+  "operation_id": "cloud_8fd60f7dfa7d",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
