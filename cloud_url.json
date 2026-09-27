@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://boulder-christmas-converter-sparc.trycloudflare.com",
-  "url": "https://boulder-christmas-converter-sparc.trycloudflare.com",
-  "updated_at": "27.09.2026 19:36:21",
-  "operation_id": "cloud_5f38f2479162",
+  "cloud_url": "https://sector-seo-collar-centuries.trycloudflare.com",
+  "url": "https://sector-seo-collar-centuries.trycloudflare.com",
+  "updated_at": "27.09.2026 19:46:48",
+  "operation_id": "cloud_df601c494336",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
