@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://championships-readings-professor-farms.trycloudflare.com",
-  "url": "https://championships-readings-professor-farms.trycloudflare.com",
-  "updated_at": "27.09.2026 18:17:14",
-  "operation_id": "cloud_833c0e7c7b86",
+  "cloud_url": "https://boulder-christmas-converter-sparc.trycloudflare.com",
+  "url": "https://boulder-christmas-converter-sparc.trycloudflare.com",
+  "updated_at": "27.09.2026 19:36:21",
+  "operation_id": "cloud_5f38f2479162",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
