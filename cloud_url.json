@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://counts-version-wifi-officer.trycloudflare.com",
-  "url": "https://counts-version-wifi-officer.trycloudflare.com",
-  "updated_at": "30.09.2026 17:58:57",
-  "operation_id": "cloud_98bc6755d6cf",
+  "cloud_url": "https://spots-paintings-pounds-epson.trycloudflare.com",
+  "url": "https://spots-paintings-pounds-epson.trycloudflare.com",
+  "updated_at": "02.10.2026 09:50:14",
+  "operation_id": "cloud_07f0e601808f",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
