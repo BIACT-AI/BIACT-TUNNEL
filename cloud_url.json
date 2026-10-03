@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://corners-straight-apparently-owen.trycloudflare.com",
-  "url": "https://corners-straight-apparently-owen.trycloudflare.com",
-  "updated_at": "03.10.2026 06:02:06",
-  "operation_id": "cloud_8fa12f41f810",
+  "cloud_url": "https://raid-pacific-owners-butterfly.trycloudflare.com",
+  "url": "https://raid-pacific-owners-butterfly.trycloudflare.com",
+  "updated_at": "03.10.2026 09:05:28",
+  "operation_id": "cloud_f3cf89f47b91",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
