@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://modifications-correctly-band-inclusive.trycloudflare.com",
-  "url": "https://modifications-correctly-band-inclusive.trycloudflare.com",
-  "updated_at": "03.10.2026 13:20:46",
-  "operation_id": "cloud_2bdc9f9ba756",
+  "cloud_url": "https://clothes-competitions-cakes-chuck.trycloudflare.com",
+  "url": "https://clothes-competitions-cakes-chuck.trycloudflare.com",
+  "updated_at": "03.10.2026 16:04:36",
+  "operation_id": "cloud_8e7fb62573a2",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
