@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://medicine-calling-collectible-educators.trycloudflare.com",
-  "url": "https://medicine-calling-collectible-educators.trycloudflare.com",
-  "updated_at": "03.10.2026 12:38:32",
-  "operation_id": "cloud_4bc57b58264b",
+  "cloud_url": "https://installation-meat-apparently-overhead.trycloudflare.com",
+  "url": "https://installation-meat-apparently-overhead.trycloudflare.com",
+  "updated_at": "03.10.2026 12:58:04",
+  "operation_id": "cloud_a449e18673fb",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
