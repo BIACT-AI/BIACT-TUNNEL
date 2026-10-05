@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://photos-ref-preserve-bytes.trycloudflare.com",
-  "url": "https://photos-ref-preserve-bytes.trycloudflare.com",
-  "updated_at": "03.10.2026 23:17:28",
-  "operation_id": "cloud_22cd6bab5a27",
+  "cloud_url": "https://anybody-finishing-south-personalized.trycloudflare.com",
+  "url": "https://anybody-finishing-south-personalized.trycloudflare.com",
+  "updated_at": "05.10.2026 17:44:02",
+  "operation_id": "cloud_bfbf8d9f27cc",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
