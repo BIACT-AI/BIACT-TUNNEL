@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://family-giving-mysterious-avatar.trycloudflare.com",
-  "url": "https://family-giving-mysterious-avatar.trycloudflare.com",
-  "updated_at": "06.10.2026 16:43:31",
-  "operation_id": "cloud_3ed99a7b1835",
+  "cloud_url": "https://burn-riding-snake-chef.trycloudflare.com",
+  "url": "https://burn-riding-snake-chef.trycloudflare.com",
+  "updated_at": "06.10.2026 20:53:03",
+  "operation_id": "cloud_c98e6fb05e2f",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
