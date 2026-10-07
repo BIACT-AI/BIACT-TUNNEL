@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://burn-riding-snake-chef.trycloudflare.com",
-  "url": "https://burn-riding-snake-chef.trycloudflare.com",
-  "updated_at": "06.10.2026 20:53:03",
-  "operation_id": "cloud_c98e6fb05e2f",
+  "cloud_url": "https://introductory-harvest-breeding-trees.trycloudflare.com",
+  "url": "https://introductory-harvest-breeding-trees.trycloudflare.com",
+  "updated_at": "07.10.2026 16:59:46",
+  "operation_id": "cloud_b7352b3bc676",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
