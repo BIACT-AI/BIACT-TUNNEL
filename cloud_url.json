@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://small-geography-jam-trance.trycloudflare.com",
-  "url": "https://small-geography-jam-trance.trycloudflare.com",
-  "updated_at": "09.10.2026 16:52:42",
-  "operation_id": "cloud_013bf0c8515e",
+  "cloud_url": "https://app-geography-drinks-proper.trycloudflare.com",
+  "url": "https://app-geography-drinks-proper.trycloudflare.com",
+  "updated_at": "10.10.2026 10:50:22",
+  "operation_id": "cloud_d279cca0f608",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
