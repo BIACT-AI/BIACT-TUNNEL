@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://accommodation-yang-vsnet-its.trycloudflare.com",
-  "url": "https://accommodation-yang-vsnet-its.trycloudflare.com",
-  "updated_at": "14.10.2026 16:59:26",
-  "operation_id": "cloud_c7d5e4f57e18",
+  "cloud_url": "https://latina-basis-deck-ira.trycloudflare.com",
+  "url": "https://latina-basis-deck-ira.trycloudflare.com",
+  "updated_at": "14.10.2026 17:09:50",
+  "operation_id": "cloud_3c290a27a252",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
