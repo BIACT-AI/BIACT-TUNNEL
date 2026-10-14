@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://missouri-superior-honey-slideshow.trycloudflare.com",
-  "url": "https://missouri-superior-honey-slideshow.trycloudflare.com",
-  "updated_at": "13.10.2026 16:46:09",
-  "operation_id": "cloud_54fa93100710",
+  "cloud_url": "https://accommodation-yang-vsnet-its.trycloudflare.com",
+  "url": "https://accommodation-yang-vsnet-its.trycloudflare.com",
+  "updated_at": "14.10.2026 16:59:26",
+  "operation_id": "cloud_c7d5e4f57e18",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
