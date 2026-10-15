@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://sam-certainly-broadband-recipients.trycloudflare.com",
-  "url": "https://sam-certainly-broadband-recipients.trycloudflare.com",
-  "updated_at": "15.10.2026 16:47:27",
-  "operation_id": "cloud_acd4a2a4a35f",
+  "cloud_url": "https://dvds-read-theoretical-economic.trycloudflare.com",
+  "url": "https://dvds-read-theoretical-economic.trycloudflare.com",
+  "updated_at": "15.10.2026 21:28:07",
+  "operation_id": "cloud_760ee9fc2f45",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
