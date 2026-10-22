@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://synthetic-balance-lie-restrict.trycloudflare.com",
-  "url": "https://synthetic-balance-lie-restrict.trycloudflare.com",
-  "updated_at": "22.10.2026 20:45:15",
-  "operation_id": "cloud_39d387b1731a",
+  "cloud_url": "https://intense-maintaining-minimal-extensive.trycloudflare.com",
+  "url": "https://intense-maintaining-minimal-extensive.trycloudflare.com",
+  "updated_at": "22.10.2026 20:55:38",
+  "operation_id": "cloud_fa3a287b378d",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
