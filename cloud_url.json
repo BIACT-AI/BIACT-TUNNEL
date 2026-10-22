@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://heater-genres-authorization-genealogy.trycloudflare.com",
-  "url": "https://heater-genres-authorization-genealogy.trycloudflare.com",
-  "updated_at": "22.10.2026 20:23:47",
-  "operation_id": "cloud_678be2ccf33c",
+  "cloud_url": "https://first-cotton-appreciation-vast.trycloudflare.com",
+  "url": "https://first-cotton-appreciation-vast.trycloudflare.com",
+  "updated_at": "22.10.2026 20:34:13",
+  "operation_id": "cloud_6e32ed978344",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
