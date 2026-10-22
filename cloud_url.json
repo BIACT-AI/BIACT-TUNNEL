@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://evident-valves-ceramic-diamonds.trycloudflare.com",
-  "url": "https://evident-valves-ceramic-diamonds.trycloudflare.com",
-  "updated_at": "22.10.2026 00:50:04",
-  "operation_id": "cloud_8b01d36cb3cc",
+  "cloud_url": "https://chamber-flush-sequences-ata.trycloudflare.com",
+  "url": "https://chamber-flush-sequences-ata.trycloudflare.com",
+  "updated_at": "22.10.2026 17:17:44",
+  "operation_id": "cloud_dde9617ba344",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
