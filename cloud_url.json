@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://intake-moisture-tent-isle.trycloudflare.com",
-  "url": "https://intake-moisture-tent-isle.trycloudflare.com",
-  "updated_at": "22.10.2026 21:42:54",
-  "operation_id": "cloud_bf117dddfb3e",
+  "cloud_url": "https://biography-coupled-studios-ram.trycloudflare.com",
+  "url": "https://biography-coupled-studios-ram.trycloudflare.com",
+  "updated_at": "22.10.2026 23:13:30",
+  "operation_id": "cloud_baaeb20bc67e",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
