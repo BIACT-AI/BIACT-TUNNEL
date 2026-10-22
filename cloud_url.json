@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://detective-cuts-invalid-arts.trycloudflare.com",
-  "url": "https://detective-cuts-invalid-arts.trycloudflare.com",
-  "updated_at": "22.10.2026 19:45:16",
-  "operation_id": "cloud_e1053c61a447",
+  "cloud_url": "https://portion-leonard-including-autos.trycloudflare.com",
+  "url": "https://portion-leonard-including-autos.trycloudflare.com",
+  "updated_at": "22.10.2026 19:55:55",
+  "operation_id": "cloud_e4adb553f50b",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
