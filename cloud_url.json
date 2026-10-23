@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://biography-coupled-studios-ram.trycloudflare.com",
-  "url": "https://biography-coupled-studios-ram.trycloudflare.com",
-  "updated_at": "22.10.2026 23:13:30",
-  "operation_id": "cloud_baaeb20bc67e",
+  "cloud_url": "https://mapping-listing-frederick-syndrome.trycloudflare.com",
+  "url": "https://mapping-listing-frederick-syndrome.trycloudflare.com",
+  "updated_at": "23.10.2026 08:03:18",
+  "operation_id": "cloud_67359eeaac49",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
