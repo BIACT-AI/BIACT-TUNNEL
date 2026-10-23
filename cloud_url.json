@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://hose-holdem-impossible-rivers.trycloudflare.com",
-  "url": "https://hose-holdem-impossible-rivers.trycloudflare.com",
-  "updated_at": "23.10.2026 18:40:14",
-  "operation_id": "cloud_5e9d9ae99316",
+  "cloud_url": "https://newbie-clinics-con-craig.trycloudflare.com",
+  "url": "https://newbie-clinics-con-craig.trycloudflare.com",
+  "updated_at": "23.10.2026 18:58:12",
+  "operation_id": "cloud_85964613cbbf",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
