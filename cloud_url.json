@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://massachusetts-qui-transform-behavioral.trycloudflare.com",
-  "url": "https://massachusetts-qui-transform-behavioral.trycloudflare.com",
-  "updated_at": "23.10.2026 18:11:32",
-  "operation_id": "cloud_e6d52019658f",
+  "cloud_url": "https://additions-everything-hunter-folding.trycloudflare.com",
+  "url": "https://additions-everything-hunter-folding.trycloudflare.com",
+  "updated_at": "23.10.2026 18:23:04",
+  "operation_id": "cloud_db5c46b13a63",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
