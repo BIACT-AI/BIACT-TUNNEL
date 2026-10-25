@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://wagner-roses-cached-tied.trycloudflare.com",
-  "url": "https://wagner-roses-cached-tied.trycloudflare.com",
-  "updated_at": "24.10.2026 19:09:35",
-  "operation_id": "cloud_4fb8cd9401b4",
+  "cloud_url": "https://diy-presentations-people-regard.trycloudflare.com",
+  "url": "https://diy-presentations-people-regard.trycloudflare.com",
+  "updated_at": "25.10.2026 20:30:55",
+  "operation_id": "cloud_11f3e0221fa5",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
