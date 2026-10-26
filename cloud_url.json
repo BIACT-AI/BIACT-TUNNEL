@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://practice-automotive-appearance-sunset.trycloudflare.com",
-  "url": "https://practice-automotive-appearance-sunset.trycloudflare.com",
-  "updated_at": "26.10.2026 15:38:31",
-  "operation_id": "cloud_d31ed692d8ed",
+  "cloud_url": "https://almost-speeches-rentals-cancellation.trycloudflare.com",
+  "url": "https://almost-speeches-rentals-cancellation.trycloudflare.com",
+  "updated_at": "26.10.2026 15:48:39",
+  "operation_id": "cloud_7f5d0ef8d2eb",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
