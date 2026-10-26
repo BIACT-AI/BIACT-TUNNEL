@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://dealt-newman-tennessee-ground.trycloudflare.com",
-  "url": "https://dealt-newman-tennessee-ground.trycloudflare.com",
-  "updated_at": "26.10.2026 18:08:53",
-  "operation_id": "cloud_fea42b3b64a9",
+  "cloud_url": "https://teens-rugby-whole-manager.trycloudflare.com",
+  "url": "https://teens-rugby-whole-manager.trycloudflare.com",
+  "updated_at": "26.10.2026 18:50:24",
+  "operation_id": "cloud_e2f24026d56b",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
