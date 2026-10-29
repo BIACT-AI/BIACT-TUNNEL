@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://usage-centres-persistent-locally.trycloudflare.com",
-  "url": "https://usage-centres-persistent-locally.trycloudflare.com",
-  "updated_at": "29.10.2026 10:34:10",
-  "operation_id": "cloud_04ee42591127",
+  "cloud_url": "https://synthesis-prostores-stamps-platinum.trycloudflare.com",
+  "url": "https://synthesis-prostores-stamps-platinum.trycloudflare.com",
+  "updated_at": "29.10.2026 11:18:47",
+  "operation_id": "cloud_7067d36e96c5",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
