@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://johnson-virtually-louisiana-priest.trycloudflare.com",
-  "url": "https://johnson-virtually-louisiana-priest.trycloudflare.com",
-  "updated_at": "29.10.2026 18:11:04",
-  "operation_id": "cloud_33907306bd9e",
+  "cloud_url": "https://hardly-sorted-amd-investigations.trycloudflare.com",
+  "url": "https://hardly-sorted-amd-investigations.trycloudflare.com",
+  "updated_at": "29.10.2026 18:55:30",
+  "operation_id": "cloud_70f1c92c170f",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
