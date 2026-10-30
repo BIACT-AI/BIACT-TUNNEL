@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://hardly-sorted-amd-investigations.trycloudflare.com",
-  "url": "https://hardly-sorted-amd-investigations.trycloudflare.com",
-  "updated_at": "29.10.2026 18:55:30",
-  "operation_id": "cloud_70f1c92c170f",
+  "cloud_url": "https://disclose-cheap-hero-foundation.trycloudflare.com",
+  "url": "https://disclose-cheap-hero-foundation.trycloudflare.com",
+  "updated_at": "30.10.2026 17:55:17",
+  "operation_id": "cloud_0eb12955ebe6",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
