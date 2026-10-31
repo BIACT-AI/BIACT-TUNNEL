@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://mileage-angels-vertical-starter.trycloudflare.com",
-  "url": "https://mileage-angels-vertical-starter.trycloudflare.com",
-  "updated_at": "31.10.2026 09:44:35",
-  "operation_id": "cloud_b0e39de07ac4",
+  "cloud_url": "https://enhancements-reservations-appliance-emperor.trycloudflare.com",
+  "url": "https://enhancements-reservations-appliance-emperor.trycloudflare.com",
+  "updated_at": "31.10.2026 09:54:57",
+  "operation_id": "cloud_aa98d4d2dc8e",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
