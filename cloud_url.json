@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://disclose-cheap-hero-foundation.trycloudflare.com",
-  "url": "https://disclose-cheap-hero-foundation.trycloudflare.com",
-  "updated_at": "30.10.2026 17:55:17",
-  "operation_id": "cloud_0eb12955ebe6",
+  "cloud_url": "https://mileage-angels-vertical-starter.trycloudflare.com",
+  "url": "https://mileage-angels-vertical-starter.trycloudflare.com",
+  "updated_at": "31.10.2026 09:44:35",
+  "operation_id": "cloud_b0e39de07ac4",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
