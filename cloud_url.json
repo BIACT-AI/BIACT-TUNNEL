@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://footwear-computation-hong-arcade.trycloudflare.com",
-  "url": "https://footwear-computation-hong-arcade.trycloudflare.com",
-  "updated_at": "31.10.2026 17:06:40",
-  "operation_id": "cloud_d578858a8b9f",
+  "cloud_url": "https://football-talked-late-mpg.trycloudflare.com",
+  "url": "https://football-talked-late-mpg.trycloudflare.com",
+  "updated_at": "02.11.2026 17:40:38",
+  "operation_id": "cloud_11a62203bb00",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
