@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://scientific-childrens-push-individually.trycloudflare.com",
-  "url": "https://scientific-childrens-push-individually.trycloudflare.com",
-  "updated_at": "05.11.2026 11:46:43",
-  "operation_id": "cloud_f011caba49c1",
+  "cloud_url": "https://high-reservation-driver-exhibitions.trycloudflare.com",
+  "url": "https://high-reservation-driver-exhibitions.trycloudflare.com",
+  "updated_at": "05.11.2026 15:37:18",
+  "operation_id": "cloud_3ea990a06a0e",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
