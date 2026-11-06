@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://economies-families-survey-messaging.trycloudflare.com",
-  "url": "https://economies-families-survey-messaging.trycloudflare.com",
-  "updated_at": "06.11.2026 11:49:36",
-  "operation_id": "cloud_1772b004fb5e",
+  "cloud_url": "https://angela-hotel-detector-sample.trycloudflare.com",
+  "url": "https://angela-hotel-detector-sample.trycloudflare.com",
+  "updated_at": "06.11.2026 13:34:10",
+  "operation_id": "cloud_7087fc9e10e3",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
