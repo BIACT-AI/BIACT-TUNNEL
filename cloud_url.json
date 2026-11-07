@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://drawings-directed-astrology-millions.trycloudflare.com",
-  "url": "https://drawings-directed-astrology-millions.trycloudflare.com",
-  "updated_at": "06.11.2026 22:13:44",
-  "operation_id": "cloud_b093d086cab4",
+  "cloud_url": "https://contest-versus-faq-boards.trycloudflare.com",
+  "url": "https://contest-versus-faq-boards.trycloudflare.com",
+  "updated_at": "07.11.2026 08:23:14",
+  "operation_id": "cloud_9d8b7abb6a5b",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
