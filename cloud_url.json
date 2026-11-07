@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://drink-billing-sit-systems.trycloudflare.com",
-  "url": "https://drink-billing-sit-systems.trycloudflare.com",
-  "updated_at": "07.11.2026 09:18:02",
-  "operation_id": "cloud_da1ff504de67",
+  "cloud_url": "https://kidney-ana-replacement-ryan.trycloudflare.com",
+  "url": "https://kidney-ana-replacement-ryan.trycloudflare.com",
+  "updated_at": "07.11.2026 09:28:39",
+  "operation_id": "cloud_dcc402c4c83b",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
