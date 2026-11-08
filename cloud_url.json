@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://inputs-emperor-has-clarke.trycloudflare.com",
-  "url": "https://inputs-emperor-has-clarke.trycloudflare.com",
-  "updated_at": "08.11.2026 13:46:16",
-  "operation_id": "cloud_a2b9f378cd22",
+  "cloud_url": "https://personals-treasures-quad-falling.trycloudflare.com",
+  "url": "https://personals-treasures-quad-falling.trycloudflare.com",
+  "updated_at": "08.11.2026 14:32:09",
+  "operation_id": "cloud_80538e97291c",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
