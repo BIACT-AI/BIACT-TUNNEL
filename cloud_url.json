@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://webster-trials-monitoring-composed.trycloudflare.com",
-  "url": "https://webster-trials-monitoring-composed.trycloudflare.com",
-  "updated_at": "08.11.2026 19:39:09",
-  "operation_id": "cloud_ec032599457e",
+  "cloud_url": "https://seasons-financial-terrorism-beaches.trycloudflare.com",
+  "url": "https://seasons-financial-terrorism-beaches.trycloudflare.com",
+  "updated_at": "08.11.2026 19:49:30",
+  "operation_id": "cloud_08bab666d8a3",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
