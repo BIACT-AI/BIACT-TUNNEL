@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://longer-booth-onto-keywords.trycloudflare.com",
-  "url": "https://longer-booth-onto-keywords.trycloudflare.com",
-  "updated_at": "08.11.2026 17:45:54",
-  "operation_id": "cloud_73c8a11f39e0",
+  "cloud_url": "https://totals-literary-regard-baltimore.trycloudflare.com",
+  "url": "https://totals-literary-regard-baltimore.trycloudflare.com",
+  "updated_at": "08.11.2026 18:54:43",
+  "operation_id": "cloud_77d427c52b50",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
