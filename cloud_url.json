@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://factory-thereafter-hudson-today.trycloudflare.com",
-  "url": "https://factory-thereafter-hudson-today.trycloudflare.com",
-  "updated_at": "08.11.2026 10:02:13",
-  "operation_id": "cloud_da3a57a2d011",
+  "cloud_url": "https://inputs-emperor-has-clarke.trycloudflare.com",
+  "url": "https://inputs-emperor-has-clarke.trycloudflare.com",
+  "updated_at": "08.11.2026 13:46:16",
+  "operation_id": "cloud_a2b9f378cd22",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
