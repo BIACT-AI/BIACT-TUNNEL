@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://personals-treasures-quad-falling.trycloudflare.com",
-  "url": "https://personals-treasures-quad-falling.trycloudflare.com",
-  "updated_at": "08.11.2026 14:32:09",
-  "operation_id": "cloud_80538e97291c",
+  "cloud_url": "https://longer-booth-onto-keywords.trycloudflare.com",
+  "url": "https://longer-booth-onto-keywords.trycloudflare.com",
+  "updated_at": "08.11.2026 17:45:54",
+  "operation_id": "cloud_73c8a11f39e0",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
