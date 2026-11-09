@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://write-few-vat-copying.trycloudflare.com",
-  "url": "https://write-few-vat-copying.trycloudflare.com",
-  "updated_at": "09.11.2026 15:36:51",
-  "operation_id": "cloud_4a9d90254c02",
+  "cloud_url": "https://mainstream-fax-nevada-genre.trycloudflare.com",
+  "url": "https://mainstream-fax-nevada-genre.trycloudflare.com",
+  "updated_at": "09.11.2026 19:13:39",
+  "operation_id": "cloud_bc6a82e92e2e",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
