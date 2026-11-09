@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://chapel-books-sonic-guidelines.trycloudflare.com",
-  "url": "https://chapel-books-sonic-guidelines.trycloudflare.com",
-  "updated_at": "09.11.2026 20:41:18",
-  "operation_id": "cloud_f6d8e50d583f",
+  "cloud_url": "https://platforms-boc-whenever-thee.trycloudflare.com",
+  "url": "https://platforms-boc-whenever-thee.trycloudflare.com",
+  "updated_at": "09.11.2026 20:51:38",
+  "operation_id": "cloud_8db9dbd861b3",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
