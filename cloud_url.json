@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://brown-paperbacks-deposits-passenger.trycloudflare.com",
-  "url": "https://brown-paperbacks-deposits-passenger.trycloudflare.com",
-  "updated_at": "09.11.2026 11:46:08",
-  "operation_id": "cloud_86435c23c2e3",
+  "cloud_url": "https://squad-brochures-creation-border.trycloudflare.com",
+  "url": "https://squad-brochures-creation-border.trycloudflare.com",
+  "updated_at": "09.11.2026 12:03:31",
+  "operation_id": "cloud_41519d3b0e65",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
