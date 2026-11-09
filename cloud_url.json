@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://squad-brochures-creation-border.trycloudflare.com",
-  "url": "https://squad-brochures-creation-border.trycloudflare.com",
-  "updated_at": "09.11.2026 12:03:31",
-  "operation_id": "cloud_41519d3b0e65",
+  "cloud_url": "https://orange-cooling-absorption-for.trycloudflare.com",
+  "url": "https://orange-cooling-absorption-for.trycloudflare.com",
+  "updated_at": "09.11.2026 13:53:08",
+  "operation_id": "cloud_98bf0f646efc",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
