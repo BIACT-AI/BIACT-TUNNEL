@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://bigger-acts-driven-sandwich.trycloudflare.com",
-  "url": "https://bigger-acts-driven-sandwich.trycloudflare.com",
-  "updated_at": "09.11.2026 23:05:28",
-  "operation_id": "cloud_89770e459326",
+  "cloud_url": "https://living-ons-polo-dressed.trycloudflare.com",
+  "url": "https://living-ons-polo-dressed.trycloudflare.com",
+  "updated_at": "10.11.2026 17:04:39",
+  "operation_id": "cloud_8abbf5dc15d5",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
