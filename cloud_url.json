@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://invitations-parties-pledge-dana.trycloudflare.com",
-  "url": "https://invitations-parties-pledge-dana.trycloudflare.com",
-  "updated_at": "11.11.2026 06:27:11",
-  "operation_id": "cloud_90714bd2834d",
+  "cloud_url": "https://phi-rather-average-purple.trycloudflare.com",
+  "url": "https://phi-rather-average-purple.trycloudflare.com",
+  "updated_at": "11.11.2026 14:57:41",
+  "operation_id": "cloud_4275231ac46d",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
