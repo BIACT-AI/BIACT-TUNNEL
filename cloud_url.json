@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://lead-alarm-satisfactory-prague.trycloudflare.com",
-  "url": "https://lead-alarm-satisfactory-prague.trycloudflare.com",
-  "updated_at": "11.11.2026 19:28:34",
-  "operation_id": "cloud_26431ccc0404",
+  "cloud_url": "https://ensure-phd-piano-solving.trycloudflare.com",
+  "url": "https://ensure-phd-piano-solving.trycloudflare.com",
+  "updated_at": "11.11.2026 21:52:50",
+  "operation_id": "cloud_a34bf438dfb8",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
