@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://phi-rather-average-purple.trycloudflare.com",
-  "url": "https://phi-rather-average-purple.trycloudflare.com",
-  "updated_at": "11.11.2026 14:57:41",
-  "operation_id": "cloud_4275231ac46d",
+  "cloud_url": "https://threaded-teach-cashiers-doors.trycloudflare.com",
+  "url": "https://threaded-teach-cashiers-doors.trycloudflare.com",
+  "updated_at": "11.11.2026 16:42:00",
+  "operation_id": "cloud_13323729d7a8",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
