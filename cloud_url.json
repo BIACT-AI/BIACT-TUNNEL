@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://middle-selections-great-york.trycloudflare.com",
-  "url": "https://middle-selections-great-york.trycloudflare.com",
-  "updated_at": "12.11.2026 16:48:39",
-  "operation_id": "cloud_60ef589f6618",
+  "cloud_url": "https://bosnia-neutral-valuable-seriously.trycloudflare.com",
+  "url": "https://bosnia-neutral-valuable-seriously.trycloudflare.com",
+  "updated_at": "12.11.2026 17:08:59",
+  "operation_id": "cloud_a3e93aca7cda",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
