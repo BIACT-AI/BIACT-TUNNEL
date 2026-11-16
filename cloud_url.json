@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://millions-never-cross-duke.trycloudflare.com",
-  "url": "https://millions-never-cross-duke.trycloudflare.com",
-  "updated_at": "15.11.2026 15:25:00",
-  "operation_id": "cloud_2b4098478fc0",
+  "cloud_url": "https://successful-fair-reducing-their.trycloudflare.com",
+  "url": "https://successful-fair-reducing-their.trycloudflare.com",
+  "updated_at": "16.11.2026 16:46:48",
+  "operation_id": "cloud_c9ebb3c69295",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
