@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://santa-possibly-sustained-organizations.trycloudflare.com",
-  "url": "https://santa-possibly-sustained-organizations.trycloudflare.com",
-  "updated_at": "18.11.2026 10:16:51",
-  "operation_id": "cloud_f74b27eea5e1",
+  "cloud_url": "https://mounts-blonde-catalogs-specialties.trycloudflare.com",
+  "url": "https://mounts-blonde-catalogs-specialties.trycloudflare.com",
+  "updated_at": "18.11.2026 14:56:15",
+  "operation_id": "cloud_a039a9218822",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
