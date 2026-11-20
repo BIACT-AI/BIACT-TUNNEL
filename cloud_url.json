@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://facilities-prophet-bar-reply.trycloudflare.com",
-  "url": "https://facilities-prophet-bar-reply.trycloudflare.com",
-  "updated_at": "20.11.2026 23:20:17",
-  "operation_id": "cloud_a151689fde33",
+  "cloud_url": "https://marble-fisher-journals-tower.trycloudflare.com",
+  "url": "https://marble-fisher-journals-tower.trycloudflare.com",
+  "updated_at": "20.11.2026 23:33:39",
+  "operation_id": "cloud_0f3e42da9112",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
