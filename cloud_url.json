@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://network-adam-alone-swap.trycloudflare.com",
-  "url": "https://network-adam-alone-swap.trycloudflare.com",
-  "updated_at": "19.11.2026 22:42:31",
-  "operation_id": "cloud_55a86f887dd1",
+  "cloud_url": "https://hrs-graphic-assumed-depends.trycloudflare.com",
+  "url": "https://hrs-graphic-assumed-depends.trycloudflare.com",
+  "updated_at": "20.11.2026 17:02:05",
+  "operation_id": "cloud_703ab8e20eff",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
