@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://experiences-corpus-sons-rosa.trycloudflare.com",
-  "url": "https://experiences-corpus-sons-rosa.trycloudflare.com",
-  "updated_at": "23.11.2026 17:03:55",
-  "operation_id": "cloud_31cd0353ac95",
+  "cloud_url": "https://joint-nights-clean-dealers.trycloudflare.com",
+  "url": "https://joint-nights-clean-dealers.trycloudflare.com",
+  "updated_at": "23.11.2026 21:42:52",
+  "operation_id": "cloud_9d6aba0ca406",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
