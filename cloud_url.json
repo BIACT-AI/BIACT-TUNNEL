@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://classroom-potato-know-protecting.trycloudflare.com",
-  "url": "https://classroom-potato-know-protecting.trycloudflare.com",
-  "updated_at": "23.11.2026 06:33:47",
-  "operation_id": "cloud_eb1fef0db0e3",
+  "cloud_url": "https://experiences-corpus-sons-rosa.trycloudflare.com",
+  "url": "https://experiences-corpus-sons-rosa.trycloudflare.com",
+  "updated_at": "23.11.2026 17:03:55",
+  "operation_id": "cloud_31cd0353ac95",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
