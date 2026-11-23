@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://preston-stays-notices-reflects.trycloudflare.com",
-  "url": "https://preston-stays-notices-reflects.trycloudflare.com",
-  "updated_at": "23.11.2026 06:23:27",
-  "operation_id": "cloud_fe20dc238815",
+  "cloud_url": "https://classroom-potato-know-protecting.trycloudflare.com",
+  "url": "https://classroom-potato-know-protecting.trycloudflare.com",
+  "updated_at": "23.11.2026 06:33:47",
+  "operation_id": "cloud_eb1fef0db0e3",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
