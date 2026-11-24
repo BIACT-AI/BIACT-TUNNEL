@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://firewire-terms-thumbzilla-label.trycloudflare.com",
-  "url": "https://firewire-terms-thumbzilla-label.trycloudflare.com",
-  "updated_at": "23.11.2026 21:53:11",
-  "operation_id": "cloud_20e0808ba49d",
+  "cloud_url": "https://neck-disk-rainbow-charleston.trycloudflare.com",
+  "url": "https://neck-disk-rainbow-charleston.trycloudflare.com",
+  "updated_at": "24.11.2026 16:37:45",
+  "operation_id": "cloud_2fee85350b5c",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
