@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "cloud_url": "https://neck-disk-rainbow-charleston.trycloudflare.com",
-  "url": "https://neck-disk-rainbow-charleston.trycloudflare.com",
-  "updated_at": "24.11.2026 16:37:45",
-  "operation_id": "cloud_2fee85350b5c",
+  "cloud_url": "https://athletes-sally-expenses-mariah.trycloudflare.com",
+  "url": "https://athletes-sally-expenses-mariah.trycloudflare.com",
+  "updated_at": "25.11.2026 17:14:56",
+  "operation_id": "cloud_3e6f6fff904b",
   "source": "BIACT Cloud Stable + DNS Public V7",
   "target": "http://127.0.0.1:8001",
   "tunnel_engine": "BIACT EXTREME 2 — Cloud Stable + DNS Public V7"
